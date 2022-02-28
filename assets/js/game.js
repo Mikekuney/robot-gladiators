@@ -2,11 +2,7 @@
 var playerName = window.prompt("What is your robots name");
 var playerHealth = 100;
 var playerAttack = 10;
-<<<<<<< HEAD
 var playerMoney = 10;
-=======
-<<<<<<< HEAD
->>>>>>> develop
 
 //you can also log multiple values at once like this
 console.log(playerName, playerAttack, playerHealth, playerMoney);
@@ -14,6 +10,7 @@ console.log(playerName, playerAttack, playerHealth, playerMoney);
 
 >>>>>>> develop
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 var fight = function() {
@@ -83,6 +80,8 @@ var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"];
 var enemyHealth = 50;
 var enemyAttack = 12;
 
+=======
+>>>>>>> 31dd29e6e076026282eeae36c981a6ecefcf649a
 console.log(enemyNames);
 console.log(enemyNames[0]);
 console.log(enemyNames[1]);
